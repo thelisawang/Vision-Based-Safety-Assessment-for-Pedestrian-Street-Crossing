@@ -1,0 +1,5 @@
+subset,0,1,2
+reserved,55,19,4
+test,38,17,2
+train,605,317,34
+val,43,14,0

@@ -1,0 +1,5 @@
+subset,crosswalk,car,scooter,bike,other_obstacles,no_obstacle_in_crosswalk
+reserved,100.0,35.9,21.79,2.56,1.28,43.59
+test,100.0,33.33,7.02,7.02,1.75,59.65
+train,99.9,18.83,7.64,3.87,0.63,74.69
+val,100.0,19.3,7.02,1.75,0.0,73.68

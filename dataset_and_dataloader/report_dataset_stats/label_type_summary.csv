@@ -1,0 +1,12 @@
+column,n_unique,unique_vals_first_20
+crosswalk,2,"[0, 1]"
+car,2,"[0, 1]"
+scooter,2,"[0, 1]"
+bike,2,"[0, 1]"
+other_obstacles,2,"[0, 1]"
+no_obstacle_in_crosswalk,2,"[0, 1]"
+traffic_light,3,"[0, 1, 2]"
+crosswalk_signal,3,"[0, 1, 2]"
+weather,3,"[0, 1, 2]"
+safe_to_walk,2,"[0, 1]"
+roadway_width,157,"[4.4, 4.9, 5.4, 5.5, 5.8, 6.1, 6.2, 6.3, 6.4, 6.5, 6.6, 6.7, 6.8, 6.9, 7.0, 7.1, 7.2, 7.3, 7.5, 7.7]"

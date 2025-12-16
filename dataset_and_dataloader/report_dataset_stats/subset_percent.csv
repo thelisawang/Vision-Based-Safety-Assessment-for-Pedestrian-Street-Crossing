@@ -1,0 +1,5 @@
+subset,proportion
+train,83.28
+reserved,6.79
+val,4.97
+test,4.97

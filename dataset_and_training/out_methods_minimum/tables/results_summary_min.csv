@@ -1,0 +1,5 @@
+exp_name,freeze_backbone,preprocess_mode,augment_mode,image_size,pretrained,epochs,lr,weight_decay,roadway_num_classes,best_val_safe_acc,test_safe_acc,ckpt_path,history_csv
+A1_linearprobe_norm_noaug,True,norm,none,224,True,20,0.001,0.0001,12,0.7100694477558136,0.7100694477558136,out_methods_minimum/checkpoints/A1_linearprobe_norm_noaug.pt,out_methods_minimum/logs/A1_linearprobe_norm_noaug_history.csv
+A2_finetune_norm_noaug,False,norm,none,224,True,20,0.001,0.0001,12,0.7760416716337204,0.7447916716337204,out_methods_minimum/checkpoints/A2_finetune_norm_noaug.pt,out_methods_minimum/logs/A2_finetune_norm_noaug_history.csv
+B1_finetune_norm_basicaug,False,norm,basic,224,True,20,0.001,0.0001,12,0.78125,0.6701388955116272,out_methods_minimum/checkpoints/B1_finetune_norm_basicaug.pt,out_methods_minimum/logs/B1_finetune_norm_basicaug_history.csv
+C1_finetune_nonorm_basicaug,False,no_norm,basic,224,True,20,0.001,0.0001,12,0.7847222238779068,0.7170138955116272,out_methods_minimum/checkpoints/C1_finetune_nonorm_basicaug.pt,out_methods_minimum/logs/C1_finetune_nonorm_basicaug_history.csv

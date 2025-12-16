@@ -1,0 +1,3 @@
+exp_name,freeze_backbone,preprocess_mode,augment_mode,epochs,lr,test_safe_acc
+A1_linearprobe_norm_noaug,True,norm,none,20,0.001,0.7100694477558136
+A2_finetune_norm_noaug,False,norm,none,20,0.001,0.7447916716337204

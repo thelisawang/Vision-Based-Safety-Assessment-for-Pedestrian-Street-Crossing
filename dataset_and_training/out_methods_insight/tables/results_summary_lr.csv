@@ -1,0 +1,4 @@
+exp_name,lr,pretrained,epochs,weight_decay,roadway_num_classes,best_val_safe_acc,test_safe_acc,ckpt_path,history_csv
+INSIGHT_lr_3e-4,0.0003,True,20,0.0001,12,0.8194444477558136,0.8003472238779068,out_methods_insight/checkpoints/INSIGHT_lr_3e-4.pt,out_methods_insight/logs/INSIGHT_lr_3e-4_history.csv
+INSIGHT_lr_1e-3,0.001,True,20,0.0001,12,0.8315972238779068,0.7881944477558136,out_methods_insight/checkpoints/INSIGHT_lr_1e-3.pt,out_methods_insight/logs/INSIGHT_lr_1e-3_history.csv
+INSIGHT_lr_3e-3,0.003,True,20,0.0001,12,0.5138888955116272,0.4114583358168602,out_methods_insight/checkpoints/INSIGHT_lr_3e-3.pt,out_methods_insight/logs/INSIGHT_lr_3e-3_history.csv

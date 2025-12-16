@@ -1,0 +1,3 @@
+exp_name,model_family,preprocess_mode,augment_mode,pretrained,image_size,epochs,lr,weight_decay,roadway_num_classes,best_val_safe_acc,test_safe_acc,ckpt_path,history_csv
+B2_finetune_norm_strongaug,resnet,norm,strong,True,224,20,0.001,0.0001,12,0.7690972238779068,0.8003472238779068,out_methods_bonus/checkpoints/B2_finetune_norm_strongaug.pt,out_methods_bonus/logs/B2_finetune_norm_strongaug_history.csv
+D1_smallcnn_norm_basicaug,smallcnn,norm,basic,False,224,20,0.001,0.0001,12,0.6006944477558136,0.5954861119389534,out_methods_bonus/checkpoints/D1_smallcnn_norm_basicaug.pt,out_methods_bonus/logs/D1_smallcnn_norm_basicaug_history.csv

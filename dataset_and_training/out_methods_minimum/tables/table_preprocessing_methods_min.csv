@@ -1,0 +1,3 @@
+exp_name,preprocess_mode,augment_mode,epochs,lr,test_safe_acc
+B1_finetune_norm_basicaug,norm,basic,20,0.001,0.6701388955116272
+C1_finetune_nonorm_basicaug,no_norm,basic,20,0.001,0.7170138955116272

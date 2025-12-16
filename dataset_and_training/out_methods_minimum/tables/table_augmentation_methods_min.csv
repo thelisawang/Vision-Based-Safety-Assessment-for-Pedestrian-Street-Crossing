@@ -1,0 +1,3 @@
+exp_name,augment_mode,epochs,lr,test_safe_acc
+A2_finetune_norm_noaug,none,20,0.001,0.7447916716337204
+B1_finetune_norm_basicaug,basic,20,0.001,0.6701388955116272
